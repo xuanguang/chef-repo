@@ -6,3 +6,18 @@
 .chef/*.pem
 .chef/encrypted_data_bag_secret
 .chef/syntaxcache
+
+#vi
+*.swp
+*.swo
+
+### Emacs ###
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
