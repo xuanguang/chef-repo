@@ -1,8 +1,6 @@
 Deprecated
 ==========
 
-
-
 Use of this repository is deprecated. We recommend using the `chef generate repo` command that comes with [ChefDK](http://downloads.chef.io/chef-dk/).
 
 Overview
