@@ -1,6 +1,6 @@
 Vagrant.configure("2") do |config|
   config.vm.box = "ubuntu-16.04"
-  config.vm.box_url = "/opt/mount2/JoshuaHome2/home2/Downloads/VirtualBox/ubuntu-16.04"
+  config.vm.box_url = "/opt/mount2/JoshuaHome2/home2/Downloads/VirtualBox/ubuntu-16.10-i386_VirtualBox.box"
   config.vm.box_download_insecure = true
   config.vm.box_download_location_trusted = true
   config.omnibus.chef_version = :latest
