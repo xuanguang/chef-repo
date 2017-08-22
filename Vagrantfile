@@ -1,6 +1,6 @@
 Vagrant.configure("2") do |config|
   config.vm.box = "ubuntu-16.04"
-  config.vm.box_url = "https://atlas.hashicorp.com/bento/boxes/ubuntu-16.04/versions/2.3.4/providers/virtualbox.box"
+  config.vm.box_url = "http://atlas.hashicorp.com/bento/boxes/ubuntu-16.10-i386/versions/2.3.6/providers/virtualbox.box"
   config.omnibus.chef_version = :latest
     
 
