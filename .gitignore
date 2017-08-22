@@ -21,3 +21,6 @@
 auto-save-list
 tramp
 .\#*
+
+###Vagrant
+.vagrant/*
