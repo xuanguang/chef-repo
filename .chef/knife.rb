@@ -9,5 +9,7 @@ log_level                :info
 log_location             STDOUT
 node_name                "xuanguang"
 client_key               "#{current_dir}/xuanguang.pem"
+validation_client_name   "lygtry-validator"
+validation_key           "#{current_dir}/lygtry-validator.pem"
 chef_server_url          "https://api.chef.io/organizations/lygtry"
 cookbook_path            ["#{current_dir}/../cookbooks"]
