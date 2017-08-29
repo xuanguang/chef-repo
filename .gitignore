@@ -7,9 +7,11 @@
 .chef/encrypted_data_bag_secret
 .chef/syntaxcache
 
-#vi
+
+### vi ###
 *.swp
 *.swo
+
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
@@ -22,5 +24,6 @@ auto-save-list
 tramp
 .\#*
 
-###Vagrant
+
+### Vagrant ###
 .vagrant/*
