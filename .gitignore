@@ -27,3 +27,6 @@ tramp
 
 ### Vagrant ###
 .vagrant/*
+
+### Chef cache ###
+.chef/local-mode-cache
